@@ -90,4 +90,8 @@ body {
     width: 20rem;
     height: 20rem;
   } */
+  #testi {
+    padding-right: 0;
+    padding-left: 0;
+  }
 }
