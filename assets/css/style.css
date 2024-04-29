@@ -1,38 +1,46 @@
 body {
-    font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
 }
 
 .title {
-    font-size: 3.5rem;
-    text-align: center;
+  font-size: 3.5rem;
+  text-align: center;
 }
 
 .title-web {
-    font-size: 2rem;
+  font-size: 2rem;
 }
 
 .text-normally {
-    font-size: 1.4rem;
+  font-size: 1.4rem;
 }
 
 .color-primary {
-    color: #aec855;
+  color: #aec855;
 }
 
 .color-secondary {
-    color: #ef2945;
+  color: #ef2945;
 }
 
 .bg-primary-custom {
-    background-color: #aec855
+  background-color: #aec855;
 }
 
 .ijo-2 {
-    background-color: #99c44a;
+  background-color: #99c44a;
+}
+
+.bg-tp {
+  background-color: #aec85573;
+}
+
+.card-title {
+  font-weight: bold;
 }
 
 @media screen and (max-width: 600px) {
-    .medium-hide {
-      display: none;
-    }
+  .medium-hide {
+    display: none;
   }
+}
