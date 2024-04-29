@@ -54,4 +54,7 @@ body {
   .img-show {
     width: 100%;
   }
+  .fontbeda {
+    font-size: 0.7rem;
+  }
 }
