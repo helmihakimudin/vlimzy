@@ -74,6 +74,8 @@ body {
 
 #konsul {
   background-image: url("https://media.istockphoto.com/id/1160789077/id/foto/ahli-gizi-memberikan-konsultasi-kepada-pasien-dengan-buah-dan-sayuran-yang-sehat-nutrisi-yang.jpg?s=612x612&w=0&k=20&c=8EguDQixiwuDlqzzCDh8D8knaDbaXQLlIZblyunLih4=");
+  background-size: cover; /* Menyesuaikan ukuran gambar dengan elemen */
+  background-repeat: no-repeat;
 }
 
 @media screen and (max-width: 600px) {
