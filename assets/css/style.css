@@ -47,6 +47,15 @@ body {
   border-radius: 10px !important;
 }
 
+.fontbeda {
+  font-size: 0.7rem;
+}
+
+/* .imgNext {
+  width: 16rem;
+  height: 16rem;
+} */
+
 @media screen and (max-width: 600px) {
   .medium-hide {
     display: none;
@@ -55,6 +64,10 @@ body {
     width: 100%;
   }
   .fontbeda {
-    font-size: 0.7rem;
+    font-size: 1rem;
   }
+  /* .imgNext {
+    width: 20rem;
+    height: 20rem;
+  } */
 }
